@@ -9,8 +9,6 @@
 )](https://instagram.com/dvx.alexandre_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/belezinha)
 
-##
-
 ![DaviAlexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAlexandre&show_icons=true&theme=dracula)
 
 
