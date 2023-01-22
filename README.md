@@ -11,10 +11,10 @@
 <a href = "mailto:davidalexandretrabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexandre-77361325b/)
 
-![DaviAlexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAlexandre&show_icons=true&theme=dracula)
+![DaviAlexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidalexandreamaral&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlexandre&how_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=Davidalexandreamaral&how_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
