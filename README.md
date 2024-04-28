@@ -1,7 +1,7 @@
 ## Oi, eu sou o David Alexandre
 
 - 💻 Busco aprender sobre programação.
-- 💡 Nusco ajudar no desenvolvimento de projetos de nível inicial.
+- 💡 Busco ajudar no desenvolvimento de projetos de nível inicial.
 - ✨Estudando PHP, JavaScript, Python e outras linguagens.
 - 📫 Você pode me encontrar em:
 
